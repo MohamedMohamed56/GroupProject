@@ -1,0 +1,49 @@
+// Group Project for Advanced Calculator.cpp : Defines the entry point for the console application.
+//
+
+
+/*
+Group Project: Advanced Calculator
+
+Class: CSC 301 Programming for Problem Solving
+
+Written By: Mohamed Mohamed on August 14, 2017
+
+revised: August 19, 2017
+
+My Part of the Project: Taking user input and output of Mathematical Expressions : Addition (+), Subtraction (-), Multiplication (*) and Division (/)
+
+*/
+
+
+#include "stdafx.h"
+
+#include <iostream> 
+
+#include <string>
+
+
+using namespace std;
+
+
+
+int main()
+{
+	
+	int result;
+
+	cout << " Enter in a mathematical expression  : " << endl; 
+
+	cin >> result; 
+
+	cout  << " Enter in a mathematical expression :  " << endl; 
+
+	cin >> result; 
+
+	cout << " Enter in a mathematical expression :  "  << endl;
+
+	cin >> result; 
+
+    return 0; 
+}
+
